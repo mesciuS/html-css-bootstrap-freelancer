@@ -7,3 +7,8 @@
     background-color: #1abc9c;
     color: white;
 }
+
+.debug-custom {
+    line-height: normal;
+    margin-bottom: 0;
+}
